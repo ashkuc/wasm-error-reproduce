@@ -1,5 +1,11 @@
 # Sample Hardhat Project (for error reproduction)
 
+Add your PRIVATE_KEY to `.env` file
+
+```shell
+cp .env.example .env
+```
+
 ```shell
 nvm use # ensure node version
 
